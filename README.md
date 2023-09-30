@@ -1,4 +1,4 @@
-Hi, the task output files are provided in two ways, both contains the code of ETL process and code used for data validation and its results. Second one is a containerized etl pipeline where data is also being ingested to postgres.
+Hi, the task output files are provided in two ways, both contains the code of ETL process and code used for data validation and its results. 
 1. First as a .ipynb file (Honeypot_Task_Submission.ipynb) 
 2. Second as a containerized etl pipeline containing .py and yaml scripts (you need to have docker installed for that and then just need to run docker-compose up command in the root directory of project.)
 
